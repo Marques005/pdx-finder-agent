@@ -1,0 +1,10 @@
+smolagents[openai,gradio]
+openai
+python-dotenv
+pandas
+pyarrow
+pydantic
+requests
+sentence-transformers
+bm25s
+numpy

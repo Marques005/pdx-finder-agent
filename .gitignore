@@ -1,0 +1,8 @@
+.venv/
+.env
+data/
+indexes/
+__pycache__/
+*_old*.py
+test_*.py
+P3-EXPLICADO.md
